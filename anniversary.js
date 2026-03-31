@@ -4,7 +4,7 @@
  * Format: 'YYYY-MM-DDTHH:MM:SS'
  * =============================================
  */
-const START = new Date('2023-03-31T00:00:00');
+const START = new Date('2024-12-13T00:00:00');
 
 function updateTimer() {
   const now  = new Date();
